@@ -12,34 +12,34 @@ Links:
 
 
 ### szenergy-common - *private repo*
-Link: [github.com/horverno/szenergy-common](https://github.com/horverno/szenergy-common)
+`Link`: [github.com/horverno/szenergy-common](https://github.com/horverno/szenergy-common)
 
 Common vehicle parameter files, descriptions and configuration programs useful throughout Szenergy applications, such as:
 - Vehicle parameters (wheelbase, steerbase)
 - Vehicle configuration parser
 - Vehicle configuration generator and editor programs
 
-*Közös Szenergy  jármű paraméterfájlok, leírások és konfigurációs programok, például:
-- Jármű paraméterek (tengelytáv, kormánymű)
-- Jármű konfigurációs parser
-- Jármű konfiguráció generátor és szerkesztő programok*
+*Közös Szenergy  jármű paraméterfájlok, leírások és konfigurációs programok, például:*
+- *Jármű paraméterek (tengelytáv, kormánymű)*
+- *Jármű konfigurációs parser*
+- *Jármű konfiguráció generátor és szerkesztő programok*
 
 ### szenergy-modeling-sysml - *private repo*
-Link: [github.com/horverno/szenergy-modeling-sysml](https://github.com/horverno/szenergy-modeling-sysml)
+`Link`: [github.com/horverno/szenergy-modeling-sysml](https://github.com/horverno/szenergy-modeling-sysml)
 
 Description of the autonomous project with sysml.
 
 *Az autonóm projekt leírása sysml segítségével.*
  
 ### szenergy-gazebo - *private repo*
-Link: [github.com/horverno/szenergy-gazebo](https://github.com/horverno/szenergy-gazebo)
+`Link`: [github.com/horverno/szenergy-gazebo](https://github.com/horverno/szenergy-gazebo)
 
 Simulated vehicles in gazebo.
 
 *Szimulált járművek gazebo-ban.*
  
 ### szenergy-trajectory-basics - *private repo*
-Link: [github.com/horverno/szenergy-trajectory-basics](https://github.com/horverno/szenergy-trajectory-basics)
+`Link`: [github.com/horverno/szenergy-trajectory-basics](https://github.com/horverno/szenergy-trajectory-basics)
 
 A trajectory scripts.
 
@@ -47,17 +47,17 @@ A trajectory scripts.
 
 
 ### szenergy-control - *private repo*
-Link: [github.com/horverno/szenergy-control](https://github.com/horverno/szenergy-control)
+`Link`: [github.com/horverno/szenergy-control](https://github.com/horverno/szenergy-control)
 
 Control-level functionalities used for different vehicles (such as the model vehicle).
 
 *Vezérlés-szintű funkcionalitás különböző járművekhez (pl. modelljármű)*
  
-### szenergy-imu-driver - *private repo*
-Link: [github.com/horverno/szenergy-imu-driver](https://github.com/horverno/szenergy-imu-driver)
+### szenergy-drivers - *private repo*
+`Link`: [github.com/horverno/szenergy-drivers](https://github.com/horverno/szenergy-drivers)
 
-Bosch BNO055 driver
+Contains serial (e.g. Bosch BNO055 IMU, Spatial FOG dual GPS) and CAN drivers (e.g. myrio, leaf) .
 
-*Bosch BNO055 driver* 
+*Soros (pl. Bosch BNO055 IMU, Spatial FOG dual GPS) illetve CAN drivereket (pl. myrio, leaf) tartalmazó repo.* 
 
 
